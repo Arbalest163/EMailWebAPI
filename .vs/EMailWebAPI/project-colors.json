@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b05b87ae-c04f-447f-b9dd-8dee740b6a96": {
+      "ProjectGuid": "b05b87ae-c04f-447f-b9dd-8dee740b6a96",
+      "DisplayName": "EMailWebAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
