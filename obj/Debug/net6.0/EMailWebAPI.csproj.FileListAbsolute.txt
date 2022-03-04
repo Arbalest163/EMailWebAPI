@@ -4,7 +4,6 @@ C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\EMailWebAPI.exe
 C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\EMailWebAPI.deps.json
 C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\EMailWebAPI.runtimeconfig.json
 C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\EMailWebAPI.dll
-C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\ref\EMailWebAPI.dll
 C:\Users\User\source\repos\emailwebapi\bin\Debug\net6.0\EMailWebAPI.pdb
 C:\Users\User\source\repos\emailwebapi\obj\Debug\net6.0\EMailWebAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\emailwebapi\obj\Debug\net6.0\EMailWebAPI.AssemblyInfoInputs.cache
@@ -62,3 +61,4 @@ C:\Users\User\source\repos\EMailWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstan
 C:\Users\User\source\repos\EMailWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\source\repos\EMailWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\User\source\repos\EMailWebAPI\obj\Debug\net6.0\EMailWebAPI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EMailWebAPI\obj\Debug\net6.0\refint\EMailWebAPI.dll
